@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659630998 source:c:\users\adanu\onedrive\Área de trabalho\algoritimo\lista03\contadordecaracter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

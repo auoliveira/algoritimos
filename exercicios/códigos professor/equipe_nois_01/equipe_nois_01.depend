@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660330525 source:c:\users\tampe\desktop\connect\equipe_nois_01\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+

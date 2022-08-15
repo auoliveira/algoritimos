@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1659561182 source:c:\users\adanu\onedrive\Área de trabalho\algoritimo\lista03\encontrarpalavra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
