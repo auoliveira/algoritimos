@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662489316 source:c:\users\adanu\onedrive\Área de trabalho\algoritimos1\listaaux2\lista05_ex03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
